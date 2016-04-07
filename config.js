@@ -1,6 +1,6 @@
 module.exports = {
 
     'secret': 'ilovescotchyscotch',
-    'database': 'mongodb://localhost:27017/jwtdb'
+    'database': 'mongodb://128.199.246.143:27017/jwtdb'
 
 };
