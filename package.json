@@ -11,5 +11,9 @@
   "repository": {
   "type": "git",
   "url": "git://github.com/raj-marina/jwt-token-sample.git"
-}
+},
+"licenses": [{
+    "type": "MIT",
+    "url": "git://github.com/raj-marina/jwt-token-sample.git/master/LICENSE"
+  }]
 }
