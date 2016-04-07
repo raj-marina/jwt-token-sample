@@ -8,4 +8,8 @@
     "mongoose": "^4.4.11",
     "morgan": "^1.7.0"
   }
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/raj-marina/jwt-token-sample.git"
+}
 }
