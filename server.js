@@ -33,7 +33,7 @@ app.get('/', function(req, res) {
     res.send('Hello! The API is at http://localhost:' + port + '/api');
 });
 
-app.get('/setup', function(req, res) {
+app.post('/setup', function(req, res) {
 
   // create a sample user
   var nick = new User({
